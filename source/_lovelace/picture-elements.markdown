@@ -12,7 +12,7 @@ footer: true
 
 Picture elements card is one of the most versatile type of cards.
 
-The cards allows you to position icons or text and even services! On an image based on coordinates. Imagine floor plan, imagine [picture-glance](/lovelace/picture-glance/) with no restrictions!
+The cards allows you to position icons, text, and even services into an image based on coordinates. Imagine Floorplan, imagine [picture-glance](/lovelace/picture-glance/) with no restrictions!
 
 <p class='img'>
   <img src='/images/lovelace/lovelace_picture_elements.gif' alt='A functional floorplan powered by picture elements'>
